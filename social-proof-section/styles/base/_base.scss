@@ -1,0 +1,47 @@
+:root {
+	/*~ Colors ~*/
+
+	/* Primary */
+	--clr-primary-dark: #502050;
+	--clr-primary-light: #ee68a4;
+
+	/* Neutral */
+	--clr-neutral-dark: #937b92;
+	--clr-neutral-light: #f7f2f7;
+
+	--clr-white: #ffffff;
+
+	/*~ Font Weights ~*/
+	--fnt-wght-lg: 700;
+	--fnt-wght-md: 500;
+	--fnt-wght-sm: 400;
+}
+
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+}
+
+*:focus {
+	outline: none;
+}
+
+ul {
+	list-style-type: none;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
+h1,
+h4,
+h5,
+blockquote,
+p,
+ul {
+	margin: 0;
+	padding: 0;
+}

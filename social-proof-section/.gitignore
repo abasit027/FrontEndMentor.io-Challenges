@@ -1,0 +1,8 @@
+*.xd
+*.fig
+.DS_Store
+.vscode
+.cahce
+*.css
+/design
+style-guide.md
